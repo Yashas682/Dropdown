@@ -1,3 +1,7 @@
+# It is a simple dropdown component using React.
+
+# User Interface
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
