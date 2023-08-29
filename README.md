@@ -1,9 +1,11 @@
-# It is a simple dropdown component using React.
+# Dropdown
 
-# User Interface
+## It is a simple dropdown component using React.
+
+## User Interface
 ![DropDown](https://github.com/Yashas682/Dropdown/assets/91604926/8438956d-4c75-491f-b118-b47bf6604578)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
